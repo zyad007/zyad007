@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Zyad
-- 👀 I’m interested in .NET and ML
-- 🌱 I’m currently learning .NET
-- 📫 How to reach me :
-Email : zizo.zoom.z0@gmail.com
+Email : zyad.sallem.007@gmail.com
 Phone : +201069833610
 
 <!---
